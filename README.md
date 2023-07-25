@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Hatice Kartal</h1>
 <h3 align="center">A computer engineering student in her second year at Trakya University.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/haticekartal/haticekartal/main/assets/images/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haticekartal&label=Profile%20views&color=0e75b6&style=flat" alt="haticekartal" /> </p>
 
