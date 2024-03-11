@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/haticekartal/haticekartal/main/assets/images/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haticekartal&label=Profile%20views&color=0e75b6&style=flat" alt="haticekartal" /> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haticekartal)](https://github.com/haticekartal/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hatice-kartal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hatice-kartal" height="30" width="40" /></a>
