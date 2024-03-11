@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaezTJIlS9a75xgLwsRtjFkMMA03Omsmbaw&usqp=CAU" alt="javascript" height='40'>
  
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haticekartal)](https://github.com/haticekartal/github-readme-stats)
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticekartal&show_icons=true&locale=en" alt="haticekartal" /></p>
