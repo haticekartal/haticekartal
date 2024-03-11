@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Python,Java,C,C++**
+- 🔭 I’m currently working on 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Hatice Kartal</h1>
-<h3 align="center">A computer engineering student in her second year at Trakya University.</h3>
+<h3 align="center">A computer engineering student in her second year at Trakya University. 🌱 I’m currently learning React</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/haticekartal/haticekartal/main/assets/images/programming.gif">
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaezTJIlS9a75xgLwsRtjFkMMA03Omsmbaw&usqp=CAU" alt="javascript" height='40'>
  
 </p>
-<p [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haticekartal)](https://github.com/haticekartal/github-readme-stats)></p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticekartal&show_icons=true&locale=en" alt="haticekartal" /></p>
